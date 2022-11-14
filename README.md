@@ -150,6 +150,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
 - [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 - [Takeout](https://takeout.bysourfruit.com) - 📧 A constantly updated email service that makes sending emails extremely easy.
+- [Markdown Videos](https://github.com/Snailedlt/Markdown-Videos) - An API which lets you embed videos into GitHub markdown with ease!
 
 ## Tutorials
 
